@@ -1,1 +1,1 @@
-Scrapping the EPL data from a website and building a prediction model.
+This project showcases proficiency in web scraping, data extraction, and automation. It involves the use of Python libraries like 'requests' and 'BeautifulSoup' to collect and organize football match and shooting statistics for Premier League teams from 'fbref.com.' The code demonstrates skills in web scraping, data manipulation, and automated data collection for multiple seasons and teams, resulting in a comprehensive dataset saved in a CSV file.
