@@ -15,6 +15,8 @@ This project analyzes COVID-19 data worldwide using SQL techniques, including jo
 ## Tableau Visualizations
 
 Tableau is an integral part of this project. You can explore the interactive visualizations [here](https://public.tableau.com/app/profile/rohit.rajkumar.nair/viz/Covid19DataExplorationProject_16968695474540/Dashboard1).
+![Dashboard](https://github.com/Rohitn96/PortfolioProjects/assets/106031824/5f1dc810-1354-496e-a103-4c9b9c720f94)
+
 
 ## Key Insights
 
