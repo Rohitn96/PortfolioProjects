@@ -2,6 +2,10 @@
 
 This project is a user-friendly tool that helps you find information quickly from news articles, particularly in the stock market and financial domain. With this tool, you can input article URLs, process the content, and ask questions to get relevant insights.
 
+## Screenshot
+
+![News Research Tool Screenshot](News Research Tool.png)
+
 ## Features
 
 - **Input Article URLs**: Users can enter URLs of news articles to fetch and process their content.
@@ -40,6 +44,3 @@ This project is a user-friendly tool that helps you find information quickly fro
    - **Process URLs**: Click "Process URLs" to analyze the articles.
    - **Ask Questions**: Type your question in the main input field to receive answers based on the processed content.
 
-## Screenshot
-
-![News Research Tool Screenshot](.png)
