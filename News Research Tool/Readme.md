@@ -4,7 +4,7 @@ This project is a user-friendly tool that helps you find information quickly fro
 
 ## Screenshot
 
-![News Research Tool Screenshot](News Research Tool.png)
+![News Research Tool Screenshot](NewsResearchTool.png)
 
 ## Features
 
