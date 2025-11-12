@@ -13,6 +13,8 @@ This project is a user-friendly tool that helps you find information quickly fro
 - **Smart Information Retrieval**: It leverages OpenAI's embeddings and FAISS, a powerful similarity search library, to help you retrieve relevant information quickly.
 - **Interactive Query System**: Users can input questions and receive answers along with the sources, making research easy and effective.
 
+(System.png)
+
 
 ## How to Use
 
